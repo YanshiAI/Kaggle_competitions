@@ -1,2 +1,3 @@
 - Classification with Academic Success (Playground Series - Season 4, Episode 6)
 - Steel Plate Defection Prediction (Playground Series - Season 4, Episode 3)
+- Credit Card Fraud Detection (This competition is the final problem statement of Recognizance'24, the ML event of Prastuti, the Electrical Dept. fest of IIT BHU.)
